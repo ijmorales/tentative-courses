@@ -34,3 +34,4 @@ A solution proposal for [Nulinga's code challenge](https://github.com/nulinga/te
 5. *(Optional)* Run tests 
 
     `npm run test`
+6. *(Optional)* Attach a debugger ([Steps for VSCode](https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_attaching-to-nodejs))
