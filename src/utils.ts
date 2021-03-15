@@ -52,17 +52,21 @@ export function generateTeachers(n: Number) : Array<Teacher> {
     return teachers;
   }
 
-export function saveJSONToFile(data: string, leftData?: string, saveFolder: string = "./output") : boolean {
+export function saveJSONToFile(data: string, leftData?: string, saveFolder: string = "./output") : string[] {
   const id = uuidv4()
-  const fileName = `${id}.json`
-  fs.writeFileSync(path.join(saveFolder, fileName), data)
+  const savedFiles: string[] = []
 
+  const filePath = path.join(saveFolder, `${id}.json`)
+  savedFiles.push(filePath)
+  fs.writeFileSync(filePath, data)
+  
   if (leftData) {
-    const leftFileName = `${id}.left.json`
-    fs.writeFileSync(path.join(saveFolder, leftFileName), leftData)
+    const leftFilePath = path.join(saveFolder, `${id}.left.json`)
+    savedFiles.push(leftFilePath)
+    fs.writeFileSync(leftFilePath, leftData)
   }
-
-  return true
+  
+  return savedFiles
 }
   
 // Fisher-Yates Shuffle function
