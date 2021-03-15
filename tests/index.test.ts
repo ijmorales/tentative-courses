@@ -19,7 +19,7 @@ const mock = {
   students: generateStudents(100),
   teachers: generateTeachers(10),
 }
-const courses = new CourseGenerator(mock.students, mock.teachers, 1).generate()
+const [courses, leftStudents] = new CourseGenerator(mock.students, mock.teachers, 1).generate()
 
 // Custom matcher
 expect.extend({

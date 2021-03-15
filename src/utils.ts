@@ -52,15 +52,16 @@ export function generateTeachers(n: Number) : Array<Teacher> {
     return teachers;
   }
 
-export function saveJSONToFile(data: string, saveFolder: string = "./output", left?: string) : boolean {
-  let fileName = `${uuidv4()}.json`
+export function saveJSONToFile(data: string, leftData?: string, saveFolder: string = "./output") : boolean {
+  const id = uuidv4()
+  const fileName = `${id}.json`
+  fs.writeFileSync(path.join(saveFolder, fileName), data)
 
-  if (left) {
-    fileName = `${uuidv4()}.${left}.json`
+  if (leftData) {
+    const leftFileName = `${id}.left.json`
+    fs.writeFileSync(path.join(saveFolder, leftFileName), leftData)
   }
 
-  fs.writeFileSync(path.join(saveFolder, fileName), data)
-  
   return true
 }
   

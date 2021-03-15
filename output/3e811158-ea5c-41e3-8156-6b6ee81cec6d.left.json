@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Tally",
+    "modality": "In Group",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Genovera",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Nancee",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Bernadine",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Sean",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Carolann",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 10,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 11,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Kippy",
+    "modality": "In Group",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Melisse",
+    "modality": "In Group",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 15,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Celestine",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 19,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Steffi",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Charin",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Stella",
+    "modality": "In Group",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 18,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Calida",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Laureen",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 16,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 14,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Brit",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 11,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Leesa",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 16,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 11,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Karina",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 16,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Avis",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 13,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Siouxie",
+    "modality": "In Group",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Renelle",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 18,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": true
+  },
+  {
+    "name": "Berti",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 16,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Bidget",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 15,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Nanon",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Brandais",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Bernardina",
+    "modality": "In Group",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Rosana",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Idell",
+    "modality": "In Group",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 19,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Maggie",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Kelcey",
+    "modality": "In Group",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Olwen",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 11,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Henryetta",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 16,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Gerrilee",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Lonnie",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Blair",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Stacie",
+    "modality": "In Group",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Cele",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 19,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Frederique",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 16,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Ranique",
+    "modality": "In Group",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Doretta",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Monday",
+        "hour": 12,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Trudi",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 10,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 9,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Robinetta",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 11,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Kira",
+    "modality": "In Group",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 12,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 15,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Janela",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Lanette",
+    "modality": "In Group",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Raine",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 14,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Randa",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 19,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 11,
+        "busy": false
+      },
+      {
+        "day": "Monday",
+        "hour": 14,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Lari",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Queenie",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 12,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 15,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Tamarra",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Daisie",
+    "modality": "Individual",
+    "level": "Upper-Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 18,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Celestine",
+    "modality": "In Group",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Friday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 18,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 15,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Abbi",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 14,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Tommy",
+    "modality": "In Group",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 14,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Caril",
+    "modality": "In Group",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 15,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 10,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Idalina",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 11,
+        "busy": false
+      },
+      {
+        "day": "Monday",
+        "hour": 14,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Dania",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Tuesday",
+        "hour": 19,
+        "busy": false
+      },
+      {
+        "day": "Friday",
+        "hour": 19,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Georgianna",
+    "modality": "Individual",
+    "level": "Advanced",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 13,
+        "busy": false
+      },
+      {
+        "day": "Thursday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Berty",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 19,
+        "busy": false
+      },
+      {
+        "day": "Wednesday",
+        "hour": 19,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 11,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Stacy",
+    "modality": "Individual",
+    "level": "Intermediate",
+    "availability": [
+      {
+        "day": "Thursday",
+        "hour": 9,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 17,
+        "busy": false
+      },
+      {
+        "day": "Tuesday",
+        "hour": 15,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Rici",
+    "modality": "Individual",
+    "level": "Beginner",
+    "availability": [
+      {
+        "day": "Monday",
+        "hour": 11,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "name": "Joey",
+    "modality": "Individual",
+    "level": "Pre-Intermediate",
+    "availability": [
+      {
+        "day": "Wednesday",
+        "hour": 10,
+        "busy": false
+      },
+      {
+        "day": "Monday",
+        "hour": 17,
+        "busy": false
+      }
+    ],
+    "needsConfirmation": false
+  }
+]

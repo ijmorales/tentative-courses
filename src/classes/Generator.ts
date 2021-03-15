@@ -6,7 +6,7 @@ export class CourseGenerator {
   teachers: Array<Teacher>
   scheduleFlexibilityHours: Number
 
-  generate() {
+  generate() : [Course[], Student[]] {
     let leftStudents = this.students
 
     const courses: Array<Course> = []

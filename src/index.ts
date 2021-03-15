@@ -14,7 +14,7 @@ function main() {
 
   console.log(courses)
 
-  saveJSONToFile(JSON.stringify(courses, null, 2))
+  saveJSONToFile(JSON.stringify(courses, null, 2), JSON.stringify(leftStudents, null, 2))
 }
 
 if (DEV) {
