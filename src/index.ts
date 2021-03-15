@@ -10,7 +10,7 @@ function main() {
   const scheduleFlexibilityHours = 1
   const students = generateStudents(100);
   const teachers = generateTeachers(10);
-  const courses = new CourseGenerator(students, teachers, scheduleFlexibilityHours).generate();
+  const [courses, leftStudents] = new CourseGenerator(students, teachers, scheduleFlexibilityHours).generate();
 
   console.log(courses)
 

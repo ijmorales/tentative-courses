@@ -50,7 +50,7 @@ export class CourseGenerator {
       courses.push(course)
     })
 
-    return courses;
+    return [courses, leftStudents];
   }
 
   constructor (students: Array<Student>, teachers: Array<Teacher>, scheduleFlexibilityHours: Number = 0) {
