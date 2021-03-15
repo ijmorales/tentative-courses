@@ -1,18 +1,30 @@
-import { generateStudents, generateTeachers } from "./utils"
+import { generateStudents, generateTeachers, saveJSONToFile } from "./utils"
 import { CourseGenerator } from "./classes"
 
+const DEV = false
+const SAVE_TO_JSON = true
+
 function main() {
-  while(true) {
-    console.log("Nulinga Code Challenge @ https://github.com/nulinga/tentative-courses")
-    const scheduleFlexibilityHours = 1
-    const students = generateStudents(10000);
-    const teachers = generateTeachers(800);
-    const courses = new CourseGenerator(students, teachers, scheduleFlexibilityHours).generate();
-    console.log(courses)
-  }
+  console.log("Nulinga Code Challenge @ https://github.com/nulinga/tentative-courses")
+
+  const scheduleFlexibilityHours = 1
+  const students = generateStudents(100);
+  const teachers = generateTeachers(10);
+  const courses = new CourseGenerator(students, teachers, scheduleFlexibilityHours).generate();
+
+  console.log(courses)
+
+  saveJSONToFile(JSON.stringify(courses, null, 2))
 }
 
-main()
+if (DEV) {
+  // If DEV, run the program in a loop so it's easier to attach the debugger
+  while(true) {
+    main()
+  }
+} else {
+  main()
+}
 
 
 

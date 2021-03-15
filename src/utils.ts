@@ -3,6 +3,9 @@ import { Student } from "./classes/Student"
 import { Schedule, ScheduleCollection } from "./classes/Schedule"
 import { Teacher } from "./classes/Teacher"
 import { DAYS, LEVELS, HOURS } from "./constants";
+import fs from "fs"
+import path from "path"
+import {v4 as uuidv4} from 'uuid'
 
 export function generateStudents (n: Number) : Array<Student> {
   const students: Student[] = []
@@ -34,7 +37,7 @@ export function generateTeachers(n: Number) : Array<Teacher> {
   }
 
   const availableCombinations = getAvailableCombinations()
-
+  
   for (let i = 0; i < n; i++) {
     // Each teacher works between 2 and 10 hours a week
     const randomIdx = getRandomInt(0, availableCombinations.length)
@@ -42,13 +45,18 @@ export function generateTeachers(n: Number) : Array<Teacher> {
     const t: Teacher = new Teacher(
       randomName(randNameConfig),
       availableCombinations.slice(randomIdx, randomIdx + randomWorkHours) as ScheduleCollection
-    )
-    teachers.push(t)
+      )
+      teachers.push(t)
+    }
+    
+    return teachers;
   }
 
-  return teachers;
+export function saveJSONToFile(data: string, saveFolder: string = "./output") : boolean {
+  fs.writeFileSync(path.join(saveFolder, `${uuidv4()}.json`), data)
+  return true
 }
-
+  
 // Fisher-Yates Shuffle function
 function shuffle(array: Array<any>) {
   let counter = array.length;
