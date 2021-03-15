@@ -1,0 +1,6 @@
+export * from "./Teacher"
+export * from "./Student"
+export * from "./Course"
+export * from "./BaseEntities"
+export * from "./Schedule"
+export * from "./Generator"
