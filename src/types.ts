@@ -1,1 +1,1 @@
-export type Modality = "In Group" | "Individual";
+export type Modality = 'In Group' | 'Individual';

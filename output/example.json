@@ -1,0 +1,2590 @@
+[
+  {
+    "students": [
+      {
+        "name": "Lesya",
+        "modality": "Individual",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "0fc544ed-a017-444c-b578-0517c1cb5b0e",
+    "level": "Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Monday",
+      "hour": 11,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Silvie",
+        "modality": "In Group",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 17,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 16,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "75b8a00f-e8e9-4038-97d1-a2f8ad55cd2a",
+    "level": "Advanced",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Friday",
+      "hour": 17,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Susana",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "05da01c6-8f6b-45e6-b5db-5edfa30213e3",
+    "level": "Upper-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 9,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Jabba Desilijic Tiure",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 15,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 12,
+          "busy": false
+        },
+        {
+          "day": "Tuesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 9,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Roxanne",
+        "modality": "Individual",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 17,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 19,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "3607f97a-4fb4-4104-a34c-0c034b8d281a",
+    "level": "Beginner",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 13,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Trudi",
+        "modality": "Individual",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 15,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 9,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "dddd3311-ba17-4576-b690-404aac62d45a",
+    "level": "Upper-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 15,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Lando Calrissian",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 15,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 17,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 16,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Margalit",
+        "modality": "Individual",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 10,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "87a569b8-b575-4599-93fa-8da3a9a09cb1",
+    "level": "Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 10,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Adrian",
+        "modality": "Individual",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 17,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "a6eb189e-78a3-4f11-b294-4d48a91c88dc",
+    "level": "Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 9,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Jabba Desilijic Tiure",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 15,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 12,
+          "busy": false
+        },
+        {
+          "day": "Tuesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 9,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Tiphanie",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      },
+      {
+        "name": "Layne",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 9,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": true
+      },
+      {
+        "name": "Tomi",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 9,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": true
+      }
+    ],
+    "id": "758ca8b2-eb11-4009-803a-675c72cba196",
+    "level": "Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 18,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Jabba Desilijic Tiure",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 15,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 12,
+          "busy": false
+        },
+        {
+          "day": "Tuesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 9,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Brigit",
+        "modality": "Individual",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "d425ae31-33d0-4bb9-accc-0408ed6ea928",
+    "level": "Upper-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Friday",
+      "hour": 18,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Beverlee",
+        "modality": "In Group",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "0baff88c-ead1-4ab8-9f98-ebd0595b0653",
+    "level": "Beginner",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Monday",
+      "hour": 18,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Vilma",
+        "modality": "In Group",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      },
+      {
+        "name": "Korrie",
+        "modality": "In Group",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 14,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "20bc5475-814e-4aa4-b932-a872ed9bb577",
+    "level": "Pre-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 18,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Yarael Poof",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 12,
+          "busy": false
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Hyacinthe",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 11,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      },
+      {
+        "name": "Windy",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 17,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "dba1a5b8-4c4a-4265-a4be-d58e78131e43",
+    "level": "Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Friday",
+      "hour": 13,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Glyn",
+        "modality": "Individual",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 16,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 10,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "fd8c4c7c-89d0-4e13-8bc3-6a41f81eb87e",
+    "level": "Pre-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 10,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Bel",
+        "modality": "Individual",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 15,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 16,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "586724d6-32d7-4450-9e48-6f2b0878eec5",
+    "level": "Advanced",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 16,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Lando Calrissian",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 15,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 17,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 16,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Merry",
+        "modality": "Individual",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 14,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": true
+      }
+    ],
+    "id": "2ebe686a-c56f-4955-88c3-425223774acf",
+    "level": "Advanced",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Friday",
+      "hour": 14,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Han Solo",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 10,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Joby",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 13,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "f6643bb9-5552-4c2a-8453-fb6c2e4dbf51",
+    "level": "Upper-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 13,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Lando Calrissian",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 15,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 17,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 16,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Costanza",
+        "modality": "In Group",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 16,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 15,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 13,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "d20aaf66-1da6-4172-b5ee-2577192acd51",
+    "level": "Beginner",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 16,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Han Solo",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 10,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Griselda",
+        "modality": "Individual",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 12,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "0f6c31a7-3830-4b8a-8955-9c71c8fdb091",
+    "level": "Upper-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Friday",
+      "hour": 12,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Roda",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 14,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      },
+      {
+        "name": "Sayre",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 14,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 10,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "3e89e5f1-10dd-4584-87c9-2336bf5e203a",
+    "level": "Upper-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Monday",
+      "hour": 14,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Yarael Poof",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 12,
+          "busy": false
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Tiffi",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 14,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 10,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      },
+      {
+        "name": "Lauryn",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 14,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 15,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": true
+      }
+    ],
+    "id": "73a2f297-f8cf-4ea3-aae6-88ada2621daf",
+    "level": "Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Friday",
+      "hour": 10,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Yarael Poof",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 12,
+          "busy": false
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Carmelia",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 16,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 10,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "6ff4f244-9a30-4513-b314-550bc2d6a067",
+    "level": "Upper-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 16,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Han Solo",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 10,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Corrinne",
+        "modality": "Individual",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 19,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "f76ccafe-6583-4193-bbbc-e90cca9e0a43",
+    "level": "Advanced",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Friday",
+      "hour": 9,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Gilberte",
+        "modality": "Individual",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 9,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "fb34cbb3-0e17-410d-8318-566e4452582a",
+    "level": "Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Monday",
+      "hour": 19,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Ketti",
+        "modality": "In Group",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 18,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "66b4b0c1-3aed-4d5f-aa44-ca085f624c64",
+    "level": "Beginner",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 18,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Sybila",
+        "modality": "Individual",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 14,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 17,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": true
+      }
+    ],
+    "id": "559de52a-2e82-4cb9-a211-22ac82597a14",
+    "level": "Beginner",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 14,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Brittne",
+        "modality": "Individual",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 17,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 16,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 12,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "9a3fc426-9362-4516-ac9d-f2805bee2250",
+    "level": "Beginner",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Friday",
+      "hour": 16,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Carmina",
+        "modality": "Individual",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 14,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 15,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "ac5dd3da-acd7-4add-8a14-7e9a2ea72708",
+    "level": "Pre-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 14,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Anakin Skywalker",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Ursuline",
+        "modality": "Individual",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 16,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "29ea361c-5e3c-43c5-b9c9-2a9a5537d6c4",
+    "level": "Upper-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Monday",
+      "hour": 16,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Jabba Desilijic Tiure",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 15,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 12,
+          "busy": false
+        },
+        {
+          "day": "Tuesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 9,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Windy",
+        "modality": "In Group",
+        "level": "Intermediate",
+        "availability": [
+          {
+            "day": "Friday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 17,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "1e54089a-410b-48cd-b71c-549c3d82308e",
+    "level": "Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 11,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Nien Nunb",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 12,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Ariella",
+        "modality": "In Group",
+        "level": "Upper-Intermediate",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 9,
+            "busy": false
+          },
+          {
+            "day": "Tuesday",
+            "hour": 19,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "33b5540b-78b7-496a-b7dc-1e30ef27c549",
+    "level": "Upper-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 19,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Jabba Desilijic Tiure",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 9,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 15,
+          "busy": false
+        },
+        {
+          "day": "Thursday",
+          "hour": 12,
+          "busy": false
+        },
+        {
+          "day": "Tuesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 9,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Halley",
+        "modality": "Individual",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 13,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 19,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "44e9ab64-64f1-4438-84d2-1a84fe2a7062",
+    "level": "Advanced",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 13,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Kalindi",
+        "modality": "Individual",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 11,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "8ec389b1-6341-45dc-b246-02339dc0a882",
+    "level": "Pre-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 19,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Tillie",
+        "modality": "In Group",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Tuesday",
+            "hour": 11,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "5e14381f-3bbe-4882-9fe9-f70fc421f95b",
+    "level": "Beginner",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Tuesday",
+      "hour": 11,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Carlin",
+        "modality": "Individual",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Monday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Friday",
+            "hour": 13,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "20a0c583-9632-4287-a3cb-3b263e17925f",
+    "level": "Advanced",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Monday",
+      "hour": 10,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Anakin Skywalker",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Deena",
+        "modality": "Individual",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Thursday",
+            "hour": 19,
+            "busy": false
+          },
+          {
+            "day": "Wednesday",
+            "hour": 17,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "3ecf2927-2345-4757-88f7-5606c9b93b56",
+    "level": "Pre-Intermediate",
+    "modality": "Individual",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 19,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Qui-Gon Jinn",
+      "availability": [
+        {
+          "day": "Monday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 13,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 17,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 19,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Lindie",
+        "modality": "In Group",
+        "level": "Beginner",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 10,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 14,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "bf028be1-2c1d-4269-b39b-03c764bd5a58",
+    "level": "Beginner",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Wednesday",
+      "hour": 10,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Han Solo",
+      "availability": [
+        {
+          "day": "Friday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 16,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 10,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Miriam",
+        "modality": "In Group",
+        "level": "Pre-Intermediate",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 18,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Thursday",
+            "hour": 12,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "075a9018-0dd0-4aca-b012-11a34d559214",
+    "level": "Pre-Intermediate",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Thursday",
+      "hour": 11,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Anakin Skywalker",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 11,
+          "busy": true
+        }
+      ]
+    }
+  },
+  {
+    "students": [
+      {
+        "name": "Annmarie",
+        "modality": "In Group",
+        "level": "Advanced",
+        "availability": [
+          {
+            "day": "Wednesday",
+            "hour": 11,
+            "busy": false
+          },
+          {
+            "day": "Monday",
+            "hour": 17,
+            "busy": false
+          }
+        ],
+        "needsConfirmation": false
+      }
+    ],
+    "id": "6891d135-bc5c-4264-b7f1-d8b9ce5ae39b",
+    "level": "Advanced",
+    "modality": "In Group",
+    "schedule": {
+      "day": "Monday",
+      "hour": 17,
+      "busy": false
+    },
+    "teacher": {
+      "name": "Sebulba",
+      "availability": [
+        {
+          "day": "Thursday",
+          "hour": 14,
+          "busy": true
+        },
+        {
+          "day": "Thursday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Friday",
+          "hour": 18,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 10,
+          "busy": true
+        },
+        {
+          "day": "Tuesday",
+          "hour": 11,
+          "busy": true
+        },
+        {
+          "day": "Wednesday",
+          "hour": 19,
+          "busy": true
+        },
+        {
+          "day": "Monday",
+          "hour": 17,
+          "busy": true
+        }
+      ]
+    }
+  }
+]

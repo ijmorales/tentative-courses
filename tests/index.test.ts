@@ -1,8 +1,10 @@
-import { Person, Student, Teacher, Course } from "../src/classes"
+/* eslint-disable no-undef */
+/* eslint-disable no-unused-vars */
+import { Person, Student, Teacher, Course } from '../src/classes'
 
-import { CourseGenerator } from "../src/classes/Generator"
-import { GROUP_LIMIT } from "../src/constants"
-import { generateStudents, generateTeachers } from "../src/utils"
+import { CourseGenerator } from '../src/classes/Generator'
+import { GROUP_LIMIT } from '../src/constants'
+import { generateStudents, generateTeachers } from '../src/utils'
 
 declare global {
   namespace jest {
@@ -17,13 +19,13 @@ declare global {
 
 const mock = {
   students: generateStudents(100),
-  teachers: generateTeachers(10),
+  teachers: generateTeachers(10)
 }
 const [courses, leftStudents] = new CourseGenerator(mock.students, mock.teachers, 1).generate()
 
 // Custom matcher
 expect.extend({
-  toBeAvailableOnSchedule(received: Teacher | Student, course: Course) {
+  toBeAvailableOnSchedule (received: Teacher | Student, course: Course) {
     const pass = !received.availability.includesDeep(course.schedule)
     if (pass) {
       return {
@@ -37,7 +39,7 @@ expect.extend({
       }
     }
   },
-  toComplyGroupLimit(received: Course, limit: Number) {
+  toComplyGroupLimit (received: Course, limit: Number) {
     const pass = !(received.students.length <= limit)
     if (pass) {
       return {
@@ -51,10 +53,10 @@ expect.extend({
       }
     }
   },
-  toComplyModality(received: Course) {
+  toComplyModality (received: Course) {
     let pass
 
-    if (received.modality === "In Group") {
+    if (received.modality === 'In Group') {
       pass = received.students.length <= GROUP_LIMIT
     } else {
       pass = received.students.length === 1
@@ -72,7 +74,7 @@ expect.extend({
       }
     }
   },
-  toBeSameLevel(received: Course) {
+  toBeSameLevel (received: Course) {
     let level: null | string = null
     let pass = true
     for (const student of received.students) {
@@ -101,13 +103,13 @@ expect.extend({
 describe('expected behavior of CourseGenerator', () => {
   test('expected properties', () => {
     for (const course of courses) {
-      expect(course).toHaveProperty("students")
-      expect(course).toHaveProperty("teacher")
-      expect(course).toHaveProperty("schedule")
-      expect(course).toHaveProperty("level")
+      expect(course).toHaveProperty('students')
+      expect(course).toHaveProperty('teacher')
+      expect(course).toHaveProperty('schedule')
+      expect(course).toHaveProperty('level')
     }
   })
-  
+
   test('teacher is available on course schedule', () => {
     for (const course of courses) {
       expect(course.teacher).toBeAvailableOnSchedule(course.teacher, course)
